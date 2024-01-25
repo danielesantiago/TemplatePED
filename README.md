@@ -6,7 +6,8 @@
 ## 📌 Visão Geral
 Este projeto visa [insira o objetivo principal do projeto aqui, por exemplo, "analisar dados de vendas para identificar tendências de mercado"]. Utilizamos [insira as técnicas utilizadas, por exemplo, "técnicas avançadas de análise de dados, machine learning e processamento de linguagem natural"] para [insira o resultado esperado do projeto, por exemplo, "identificar padrões de compra e prever tendências futuras"].
 
-📄 [Veja a minha apresentação aqui](https://github.com/[SeuNomeDeUsuário]/[NomeDoProjeto]/blob/master/[NomeDoArquivoDeApresentação].pdf)
+📄 [Veja o template da apresentação](https://github.com/danielesantiago/TemplatePED/blob/master/reports/Template_Case.pptx)
+📄 [Veja o template do notebook](https://github.com/danielesantiago/TemplatePED/blob/master/notebooks/Case%20Fraude.ipynb)
 
 ## 💼 Entendimento do Negócio
 
