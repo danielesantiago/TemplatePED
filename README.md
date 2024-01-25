@@ -85,6 +85,4 @@ A estrutura de diretórios do projeto foi organizada da seguinte forma:
 
 [Descreva os próximos passos para o seu projeto, por exemplo, "O próximo passo é implementar o modelo em um ambiente de produção para testar sua eficácia em tempo real."]
 
-Este template pode ser adaptado para diferentes tipos de projetos, garantindo que você apresente suas informações de maneira clara e estruturada.
-O próximo marco neste percurso é levar o Modelo Treinado ao campo de batalha real: seu deployment. Isso permitirá que o modelo seja utilizado no cotidiano operacional, traduzindo suas promessas teóricas em benefícios tangíveis e imediatos para a empresa.
 
